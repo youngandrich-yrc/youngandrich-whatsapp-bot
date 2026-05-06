@@ -1,3 +1,4 @@
+# YoungAndRich Bot Dependencies
 flask
 twilio
 groq
